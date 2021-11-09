@@ -33,12 +33,17 @@ main {
     }
     .cardFilmBox {
         font-size: 14px;
-        background-color: rgb(131, 164, 170);
+        background-color: rgb(120, 158, 165);
         width: 200px;
         height: 320px;
         padding: 20px;
         border-radius: 5px;
         text-align: center;
+
+        h4 {
+            margin: 5px;
+            color: rgb(204, 204, 204);
+        }
 
         .img {
             display: flex;

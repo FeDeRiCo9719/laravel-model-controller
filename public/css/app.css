@@ -36,12 +36,17 @@ main .boxFilms {
 
 main .cardFilmBox {
   font-size: 14px;
-  background-color: #83a4aa;
+  background-color: #789ea5;
   width: 200px;
   height: 320px;
   padding: 20px;
   border-radius: 5px;
   text-align: center;
+}
+
+main .cardFilmBox h4 {
+  margin: 5px;
+  color: #cccccc;
 }
 
 main .cardFilmBox .img {
